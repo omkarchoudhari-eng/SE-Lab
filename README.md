@@ -1,1 +1,1 @@
-# SE-Lab
+# SE-LabDevOps practice environment setup
